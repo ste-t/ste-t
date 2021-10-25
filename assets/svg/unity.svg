@@ -46,7 +46,7 @@
 
 
 <path
-   style="fill:#ffffff;stroke:#ffffff;stroke-width:2.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="fill:none;stroke:#ffffff;stroke-width:2.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="m 43.890064,97.74 39.03,-22.54 3.74,-6.48 V 23.64 l -39.04,-22.54 h -7.48 l -39.03,22.54 -0.01,44.87 3.75,6.69 39.03,22.54 z"
    id="path300" /><path
    class="st0"
