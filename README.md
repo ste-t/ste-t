@@ -1,8 +1,9 @@
 # [<img src="assets/tux-typing.gif" alt="Tux typing" width="45px"/>](https://github.com/IlmastroStefanuzzo/ilmastrostefanuzzo/blob/main/what-you-are-referring-to-as-linux.md#id-just-like-to-interject-for-a-moment) Hello friend
+
 [![Itch.io profile](https://img.shields.io/badge/Itch.io-profile-f85b5a?style=flat-square&logo=itch.io&logoColor=f85b5a)](https://ilmastrostefanuzzoyt.itch.io) [![Youtube views](https://img.shields.io/youtube/channel/views/UCzv719JmKaLwZhp7hd3vvbg?logo=youtube&style=flat-square&color=F63A3A)](https://youtube.com/channel/UCzv719JmKaLwZhp7hd3vvbg) [![Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCzv719JmKaLwZhp7hd3vvbg?logo=youtube&style=flat-square&color=F63A3A)](https://youtube.com/channel/UCzv719JmKaLwZhp7hd3vvbg) [![I use Arch btw](https://img.shields.io/badge/I%20use-Arch%20btw-blue?style=flat-square&logo=arch-linux&logoColor=blue)](https://github.com/IlmastroStefanuzzo/ilmastrostefanuzzo/blob/main/disclaimer.md#i-use-arch-btw)
 
-* 🔭 I’m currently learning **networking** and **pentesting**
-* 🔬 Learn more about me on [my website](https://www.stefano.ml)
+-   🔭 I’m currently learning **networking** and **pentesting**
+-   🔬 Learn more about me on [my website](https://www.stefano.ml)
 
 ---
 
@@ -29,6 +30,9 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript">
     <img src="assets/svg/javascript.svg" alt="JavaScript Logo" height="55"/>
+</a>
+<a href="https://godotengine.org">
+    <img src="assets/svg/godot.svg" alt="Godot Logo" height="55"/>
 </a>
 <a href="https://www.docker.com/">
     <img src="assets/svg/docker.svg" alt="Docker Logo" height="55"/>

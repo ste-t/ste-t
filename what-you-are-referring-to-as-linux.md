@@ -1,4 +1,5 @@
 # I'd just like to interject for a moment
+
 What you're referring to as Linux,
 is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux.
 Linux is not an operating system unto itself, but rather another free component
@@ -6,20 +7,21 @@ of a fully functioning GNU system made useful by the GNU corelibs, shell
 utilities and vital system components comprising a full OS as defined by POSIX.
 
 Many computer users run a modified version of the GNU system every day,
-without realizing it.  Through a peculiar turn of events, the version of GNU
+without realizing it. Through a peculiar turn of events, the version of GNU
 which is widely used today is often called "Linux", and many of its users are
 not aware that it is basically the GNU system, developed by the GNU Project.
 
 There really is a Linux, and these people are using it, but it is just a
-part of the system they use.  Linux is the kernel: the program in the system
+part of the system they use. Linux is the kernel: the program in the system
 that allocates the machine's resources to the other programs that you run.
 The kernel is an essential part of an operating system, but useless by itself;
-it can only function in the context of a complete operating system.  Linux is
+it can only function in the context of a complete operating system. Linux is
 normally used in combination with the GNU operating system: the whole system
-is basically GNU with Linux added, or GNU/Linux.  All the so-called "Linux"
+is basically GNU with Linux added, or GNU/Linux. All the so-called "Linux"
 distributions are really distributions of GNU/Linux.
 
 ## No, Richard
+
 No, Richard, it's 'Linux', not 'GNU/Linux'. The most important contributions that the FSF made to Linux were the creation of the GPL and the GCC compiler. Those are fine and inspired products. GCC is a monumental achievement and has earned you, RMS, and the Free Software Foundation countless kudos and much appreciation.
 Following are some reasons for you to mull over, including some already answered in your FAQ.
 One guy, Linus Torvalds, used GCC to make his operating system (yes, Linux is an OS -- more on this later). He named it 'Linux' with a little help from his friends. Why doesn't he call it GNU/Linux? Because he wrote it, with more help from his friends, not you. You named your stuff, I named my stuff -- including the software I wrote using GCC -- and Linus named his stuff. The proper name is Linux because Linus Torvalds says so. Linus has spoken. Accept his authority. To do otherwise is to become a nag. You don't want to be known as a nag, do you?
