@@ -1,13 +1,13 @@
 # [<img src="assets/tux-typing.gif" alt="Tux typing" width="45px"/>](https://github.com/ste-t/ste-t/blob/main/what-you-are-referring-to-as-linux.md#id-just-like-to-interject-for-a-moment) Hello friend
 
-[![Itch.io profile](https://img.shields.io/badge/Itch.io-profile-f85b5a?style=flat-square&logo=itch.io&logoColor=f85b5a)](https://ste-t.itch.io) [![Youtube views](https://img.shields.io/youtube/channel/views/UCzv719JmKaLwZhp7hd3vvbg?logo=youtube&style=flat-square&color=F63A3A)](https://youtube.com/@ste.t) [![Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCzv719JmKaLwZhp7hd3vvbg?logo=youtube&style=flat-square&color=F63A3A)](https://youtube.com/@ste.t) [![I use Arch btw](https://img.shields.io/badge/I%20use-Arch%20btw-blue?style=flat-square&logo=arch-linux&logoColor=blue)](https://github.com/ste-t/ste-t/blob/main/disclaimer.md#i-use-arch-btw)
+[![Itch.io page](https://img.shields.io/badge/Itch.io-page-f85b5a?style=flat-square&logo=itch.io&logoColor=f85b5a)](https://ste-t.itch.io) [![Youtube views](https://img.shields.io/youtube/channel/views/UCzv719JmKaLwZhp7hd3vvbg?logo=youtube&style=flat-square&color=F63A3A)](https://youtube.com/@ste.t) [![Explore Dotfiles](https://img.shields.io/badge/Explore-Dotfiles-blue?style=flat-square&logo=arch-linux&logoColor=blue)](https://github.com/ste-t/dotfiles)
 
--   🔭 I’m currently learning **networking** and **pentesting**
+-   🔭 I’m currently pursuing **Machine Learning** and **Artificial Intelligence**
 -   🔬 Learn more about me on [my website](https://tste.dev)
 
 ---
 
-### <img src="assets/tux-worker.png" alt="Tux worker" width="33px"/> Toolbox
+## <img src="assets/tux-worker.png" alt="Tux worker" width="33px"/> Toolbox
 
 <p align="center">
 <a href="https://www.python.org/">
@@ -65,4 +65,4 @@
   
 ---
 
-<p align="center"> ~ Stefano </p>
+<p align="center"> ~ Stefan </p>
