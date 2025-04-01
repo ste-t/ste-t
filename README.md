@@ -3,6 +3,7 @@
 [![Itch.io page](https://img.shields.io/badge/Itch.io-page-f85b5a?style=flat-square&logo=itch.io&logoColor=f85b5a)](https://ste-t.itch.io) [![Youtube views](https://img.shields.io/youtube/channel/views/UCzv719JmKaLwZhp7hd3vvbg?logo=youtube&style=flat-square&color=F63A3A)](https://youtube.com/@ste.t) [![Explore Dotfiles](https://img.shields.io/badge/Explore-Dotfiles-blue?style=flat-square&logo=arch-linux&logoColor=blue)](https://github.com/ste-t/dotfiles)
 
 -   🔭 I’m currently pursuing **Machine Learning** and **Artificial Intelligence**
+-   🔎 [Explore](https://github.com/ste-t/cnn-web-3d-vis) the inner workings of a Convolutional Neural Network in 3D
 -   🔬 Learn more about me on [my website](https://tste.dev)
 
 ---
