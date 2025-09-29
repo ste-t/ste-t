@@ -5,6 +5,7 @@
 -   🔭 I’m currently pursuing **Machine Learning** and **Artificial Intelligence**
 -   🔎 [Explore](https://github.com/ste-t/cnn-web-3d-vis) the inner workings of a Convolutional Neural Network in 3D
 -   🔬 Learn more about me on [my website](https://tste.dev)
+-   📡 Read writeups published on my [blog](https://blog.tste.dev)
 
 ---
 
