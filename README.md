@@ -2,7 +2,7 @@
 
 **Cybersecurity · Privacy · Networking · AI/ML · Electronics**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tste.dev-1b1222?style=flat-square&logo=googlechrome&logoColor=d8c7e8&labelColor=4b2863)](https://tste.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tste.dev-1b1222?style=flat-square&logo=firefoxbrowser&logoColor=d8c7e8&labelColor=4b2863)](https://tste.dev)
 [![Blog](https://img.shields.io/badge/Technical_Blog-blog.tste.dev-1b1222?style=flat-square&logo=readme&logoColor=d8c7e8&labelColor=4b2863)](https://blog.tste.dev)
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-Explore-1b1222?style=flat-square&logo=archlinux&logoColor=d8c7e8&labelColor=4b2863)](https://github.com/ste-t/dotfiles)
 
